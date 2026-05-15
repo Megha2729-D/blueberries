@@ -1003,7 +1003,7 @@ input.inputtypehome::placeholder {
 
   /* Top padding account for sticky header height */
   .homepage-container {
-    padding-top: 10px;
+    padding-top: 0;
   }
 
   /* Navbar */

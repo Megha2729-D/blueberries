@@ -1291,11 +1291,14 @@ export default function Navbar() {
 
             .header {
               margin-top: 60px;
-              height: 80px;
+              height: 100px;
             }
             .container-fluid{
               gap: 10px;
             }
+              .pincodeParent {
+    margin-top: 22px;
+}
           }
 
           /* =========================
